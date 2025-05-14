@@ -14,7 +14,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 ## The Script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SolentraXminishakk/Ghxxst-hub/refs/heads/main/Script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SolentraXminishakk/Ghxxst-hub/refs/heads/main/mm2.lua"))()
 ```
 ------------------------------------------------------------------------------------------------------------------------
 ## Discord
