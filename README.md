@@ -14,7 +14,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 ## The Script
 ```lua
-local a,b,c=loadstring,request or http_request or (http and http.request) or (syn and syn.request),"[https://raw.githubusercontent.com/SolentraXminishakk/Ghxxst hub/refs/heads/main/mm2.lua]https://gist.githubusercontent.com/SolentraXminishakk/33baf5b5d7e1177e3b3350a2185081e4/raw/ea8171c486afd3cb81f55c03ffa0ff29e2f92253/gistfile1.txt";assert(a and b,"Unsupported executor")a(b({Url=c,Method="GET",Headers={["User-Agent"]="MyHub"}}).Body)()
+local a,b,c=loadstring,request or http_request or (http and http.request) or (syn and syn.request),"https://gist.githubusercontent.com/SolentraXminishakk/33baf5b5d7e1177e3b3350a2185081e4/raw/ea8171c486afd3cb81f55c03ffa0ff29e2f92253/gistfile1.txt";assert(a and b,"Unsupported executor")a(b({Url=c,Method="GET",Headers={["User-Agent"]="MyHub"}}).Body)()
 ```
 ------------------------------------------------------------------------------------------------------------------------
 ## Discord
