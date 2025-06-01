@@ -10,11 +10,11 @@
 -----------------------------------------------------------------------------------------------------------------------------
 ## Ghxxst Hub Versions ever released
 
-### v0.0.1
+### v0.0.2
 ----------------------------------------------------------------------------------------------------------------------------
 ## The Script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SolentraXminishakk/Ghxxst-hub/refs/heads/main/mm2.lua"))()
+local a,b,c=loadstring,request or http_request or (http and http.request) or (syn and syn.request),"https://raw.githubusercontent.com/SolentraXminishakk/Ghxxst-hub/refs/heads/main/mm2.lua";assert(a and b,"Unsupported executor")a(b({Url=c,Method="GET",Headers={["User-Agent"]="MyHub"}}).Body)()
 ```
 ------------------------------------------------------------------------------------------------------------------------
 ## Discord
